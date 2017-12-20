@@ -1,4 +1,4 @@
-import * as Vue from 'vue';
+import Vue from 'vue';
 import Vuex from 'vuex';
 import Store from './app/store/index'
 import MainComponent from './app/main/';
